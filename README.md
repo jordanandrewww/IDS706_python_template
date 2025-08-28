@@ -26,13 +26,13 @@ Run the Python script:
 python hello.py
 
 Inside hello.py:
-from hello import say_hello, add
+from hello import say_hello, add //
 
-print(say_hello("Jordan"))
+print(say_hello("Jordan")) //
 print(add(2, 3))
 
 Expected output:
-Hello, Jordan, welcome to Data Engineering Systems (IDS 706)!
+Hello, Jordan, welcome to Data Engineering Systems (IDS 706)! //
 5
 
 Run tests:
